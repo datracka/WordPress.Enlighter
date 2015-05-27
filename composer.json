@@ -1,0 +1,13 @@
+{
+  "name": "datracka/WordPress.Enlighter",
+  "type": "wordpress-plugin",
+  "package": {
+    "source": {
+      "url": "git@github.com:datracka/WordPress.Enlighter.git",
+      "type": "git"
+    },
+    "require": {
+      "composer/installers": "~1.0.6"
+    }
+  }
+}
